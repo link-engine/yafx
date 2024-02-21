@@ -1,0 +1,2 @@
+# YAFX - Empowering light-weight scene description
+YAFX is an interface to write complex YAF compliant XML. Use it to generate complex scene descriptions that can parsed using Link's Engine and make three-dimensional ambients.

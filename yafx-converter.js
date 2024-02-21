@@ -1,4 +1,5 @@
-// Importing the file system module
+import yafx from './yafx';
+
 const fs = require('fs');
 
 // Reading the JSON file synchronously
@@ -16,3 +17,4 @@ try {
 }
 
 
+//TODO - Convert the JSON data to YAFX
